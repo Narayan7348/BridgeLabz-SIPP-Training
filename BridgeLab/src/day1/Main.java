@@ -1,7 +1,5 @@
-
-package BridgeLab;
+package day1;
 
 public class Main {
 
 }
-
