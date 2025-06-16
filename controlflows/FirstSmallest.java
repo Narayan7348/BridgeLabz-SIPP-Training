@@ -10,6 +10,6 @@ public class FirstSmallest {
         int number3 = scanner.nextInt();
         boolean isFirstSmallest = (number1 < number2) && (number1 < number3);
         System.out.println("Is the first number the smallest? " + isFirstSmallest);
-        scanner.close();
+       
     }
 }
