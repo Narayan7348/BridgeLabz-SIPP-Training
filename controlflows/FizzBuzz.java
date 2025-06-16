@@ -6,7 +6,7 @@ public class FizzBuzz {
         int number = sc.nextInt();
         if (number <= 0) {
             System.out.println("Please enter a positive integer.");
-            sc.close();
+            
             return;
         }
         int i = 1;
