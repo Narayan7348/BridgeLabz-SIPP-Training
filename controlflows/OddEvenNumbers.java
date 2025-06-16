@@ -6,7 +6,7 @@ public class OddEvenNumbers {
         int number = sc.nextInt();
         if (number < 1) {
             System.out.println("Please enter a natural number (1 or greater).");
-            sc.close();
+            
             return;
         }
         for (int i = 1; i <= number; i++) {
