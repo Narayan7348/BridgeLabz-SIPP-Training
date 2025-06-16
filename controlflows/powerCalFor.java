@@ -1,6 +1,6 @@
 
 
-import java.util.Scanner;
+import java.util.*;
 
 public class powerCalFor {
     public static void main(String[] args) {
