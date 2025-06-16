@@ -9,6 +9,6 @@ public class VotingEligibility {
         } else {
             System.out.println("The person's age is " + age + " and cannot vote.");
         }
-        sc.close();
+        
     }
 }
