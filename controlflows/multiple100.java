@@ -1,6 +1,6 @@
 
 
-import java.util.;
+import java.util.*;
 
 public class multiple100 {
     public static void main(String[] args) {
