@@ -1,12 +1,12 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class ArrayIndexDemo {
-    // Method to generate ArrayIndexOutOfBoundsException
+    
     public static void generateException(String[] names, int index) {
         System.out.println("Accessing element at index " + index + ": " + names[index]);
     }
     
-    // Method to handle ArrayIndexOutOfBoundsException
+   
     public static void handleException(String[] names, int index) {
         try {
             System.out.println("Accessing element at index " + index + ": " + names[index]);
