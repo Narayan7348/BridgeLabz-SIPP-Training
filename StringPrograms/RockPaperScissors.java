@@ -2,7 +2,7 @@ import java.util.*;
 
 public class RockPaperScissors {
     
-    // Method to get computer choice
+    
     private static String getComputerChoice() {
         int choice = (int)(Math.random() * 3);
         switch(choice) {
@@ -12,7 +12,7 @@ public class RockPaperScissors {
         }
     }
     
-    // Method to determine winner
+    
     private static String findWinner(String playerChoice, String computerChoice) {
         if (playerChoice.equals(computerChoice)) return "Tie";
         
@@ -28,7 +28,7 @@ public class RockPaperScissors {
         }
     }
     
-    // Method to calculate statistics
+    
     private static String[][] calculateStats(int playerWins, int computerWins, int games) {
         double playerPercent = (playerWins * 100.0) / games;
         double computerPercent = (computerWins * 100.0) / games;
@@ -39,7 +39,7 @@ public class RockPaperScissors {
         };
     }
     
-    // Method to display results
+    
     private static void displayResults(String[][] stats) {
         System.out.println("\nFinal Statistics:");
         System.out.println("Player   | Wins | Win Percentage");
