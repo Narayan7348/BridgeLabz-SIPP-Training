@@ -1,15 +1,15 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class CharacterTypeDemo {
     
-    // Method to check character type
+    
     public static String getCharacterType(char ch) {
-        // Convert to lowercase if uppercase
+        
         if (ch >= 'A' && ch <= 'Z') {
             ch = (char)(ch + 32);
         }
         
-        // Check character type
+       
         if (ch >= 'a' && ch <= 'z') {
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
                 return "Vowel";
@@ -20,7 +20,7 @@ public class CharacterTypeDemo {
         return "Not a Letter";
     }
     
-    // Method to analyze string characters
+   
     public static String[][] analyzeString(String str) {
         String[][] result = new String[str.length()][2];
         for (int i = 0; i < str.length(); i++) {
@@ -30,7 +30,7 @@ public class CharacterTypeDemo {
         return result;
     }
     
-    // Method to display result in tabular format
+    
     public static void displayTable(String[][] data) {
         System.out.println("Character | Type");
         System.out.println("----------|--------------");
