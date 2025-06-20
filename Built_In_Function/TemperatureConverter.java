@@ -1,35 +1,37 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class TemperatureConverter {
 
-    
     public static double fahrenheitToCelsius(double fahrenheit) {
-        return (fahrenheit - 32) * 5 / 9;
+        return Math.round(((fahrenheit - 32) * 5.0 / 9.0) * 100.0) / 100.0; // Rounded to 2 decimals
     }
 
-   
     public static double celsiusToFahrenheit(double celsius) {
-        return (celsius * 9 / 5) + 32;
+        return Math.round(((celsius * 9.0 / 5.0) + 32) * 100.0) / 100.0; // Rounded to 2 decimals
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        System.out.println("Temperature Converter");
-        System.out.print("Enter temperature: ");
-        double temp = scanner.nextDouble();
+        System.out.println("=== Temperature Converter ===");
+        System.out.print("Enter temperature value: ");
+        double temperature = input.nextDouble();
 
-        System.out.print("Convert to (C for Celsius, F for Fahrenheit): ");
-        char choice = scanner.next().toUpperCase().charAt(0);
+        System.out.print("Convert to (C/F): ");
+        String unit = input.next().toUpperCase();
 
-        if (choice == 'C') {
-            System.out.println("Result: " + fahrenheitToCelsius(temp) + " °C");
-        } else if (choice == 'F') {
-            System.out.println("Result: " + celsiusToFahrenheit(temp) + " °F");
-        } else {
-            System.out.println("Invalid choice.");
+        switch (unit) {
+            case "C":
+                System.out.println("Converted: " + fahrenheitToCelsius(temperature) + " °C");
+                break;
+            case "F":
+                System.out.println("Converted: " + celsiusToFahrenheit(temperature) + " °F");
+                break;
+            default:
+                System.out.println("Invalid option. Please enter C or F.");
         }
 
-       
+        input.close();
     }
 }
+
