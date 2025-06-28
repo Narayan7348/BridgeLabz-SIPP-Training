@@ -1,6 +1,4 @@
 import java.util.*;
-
-
 class Flight {
     String flightNumber;
     String origin;
