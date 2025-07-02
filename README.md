@@ -34,19 +34,19 @@ Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops
 
 ### 📅 13/06/25 (Fri) – Day 5 – Java Methods  
 Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases  
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/Methods)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/Methods_Program)
 
 ---
 
 ### 📅 16/06/25 (Mon) – Day 6 – Java Strings  
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)  
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/StringsPrograms)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/StringPrograms)
 
 ---
 
 ### 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions  
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections  
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/BuiltInFunctions)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Core_Java/Built_In_Function)
 
 ---
 
@@ -77,12 +77,12 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 ### 📅 27/06/25 (Friday) – Day 5 – Workshop  
 *Topics*: All Topic Question which is covered till Thursday(26/06/25) 
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop/Workshop)
 ---
 
 ### 📅 28/06/25 (Saturday) – Day 6 – Workshop  
 *Topics*: All Topic Question which is covered till Thursday(26/06/25) 
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop/Workshop)
 ---
 
 ### 📅 01/07/25 (Tuesday) – Day 7 – Inheritence  
