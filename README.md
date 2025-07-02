@@ -68,3 +68,23 @@ Topics: Constructor types (default, parameterized, overloaded), use of this keyw
 ### 📅 24/06/25 (Tue) – Day 3 – Java Keywords  
 Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each  
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/OOPs/This,_Static_Final_Key_Words_And_InstanceOf_Operator)
+---
+
+### 📅 25/06/25 (Wednesday) – Day 4 – Diagrams & Modelling  
+*Topics*: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/OOPs/Object_Oriented_Design_Principles)
+---
+
+### 📅 27/06/25 (Friday) – Day 5 – Workshop  
+*Topics*: All Topic Question which is covered till Thursday(26/06/25) 
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop)
+---
+
+### 📅 28/06/25 (Saturday) – Day 6 – Workshop  
+*Topics*: All Topic Question which is covered till Thursday(26/06/25) 
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/Workshop)
+---
+
+### 📅 01/07/25 (Tuesday) – Day 7 – Inheritence  
+*Topics*: Inheritance,Single Level Inheritance,Multilevel Inheritence,Hierarichal Inheritance,Key Feature of Inheritence,Method Overriding,Constructor Inheritance in java,Polymorphism and Inheritance,Access Modifier and inheritance 
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/OOPs/Inheritance_Program)
