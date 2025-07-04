@@ -94,3 +94,10 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 *Topics*: Encapsulation,Polymorphism,Interface,Abstract class.
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/OOPs/Encapsulation_Polymorphism_Interface_Abstract_ClassPrograms)
 ---
+
+## DSA Branch 🧱
+
+### 📅 o3/07/25 (Friday) – Day 1 – Data Structure Introduction and LinkedList  
+*Topics*: Introduction of Data Structure,Key Features of Data Structures in java,Types of Data Structures in Java,Single Linked List,Double Linked List,Circular Linked List. 
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/LinkedList_Programs)
+---
