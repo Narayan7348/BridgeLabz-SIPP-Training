@@ -97,7 +97,17 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 ## DSA Branch 🧱
 
-### 📅 o3/07/25 (Friday) – Day 1 – Data Structure Introduction and LinkedList  
+### 📅 03/07/25 (Friday) – Day 1 – Data Structure Introduction and LinkedList  
 *Topics*: Introduction of Data Structure,Key Features of Data Structures in java,Types of Data Structures in Java,Single Linked List,Double Linked List,Circular Linked List. 
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/LinkedList_Programs)
+---
+
+### 📅 07/07/25 (Monday) – Day 2 – Stack and Queue  
+*Topics*: Stack and Queue 
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/StackAndQueue_Programs)
+---
+
+### 📅 08/07/25 (Tuesday) – Day 3 – HashMap and HashFunction
+*Topics*: HashMap and HashFunction
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/HashMapAndHashFunction_Program)
 ---
