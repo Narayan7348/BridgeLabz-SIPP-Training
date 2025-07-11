@@ -112,7 +112,12 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/HashMapAndHashFunction_Program)
 ---
 
-### 📅 09/07/25 (Wednesday) – Day 4 – 
+### 📅 09/07/25 (Wednesday) – Day 4 – Sortig Topics
 *Topics*: Bubble Sort,Merge Sort,Insertion Sort,Quick Sort,Selection Sort,Heap Sort, Counting Sort.
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Programs)
+---
+
+### 📅 10/07/25 (Thursday) – Day 5 – Linear and Binary Search
+*Topics*: String Buffer,String Builder,Linear Search,Binary Search,File Reader,InputStreamReader
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/LinearAndBinearySearch)
 ---
