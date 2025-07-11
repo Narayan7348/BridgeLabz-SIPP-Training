@@ -121,3 +121,8 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 *Topics*: String Buffer,String Builder,Linear Search,Binary Search,File Reader,InputStreamReader
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/LinearAndBinearySearch)
 ---
+
+### 📅 11/07/25 (Friday) – Day 6 – Algorithm's Runtime Analysis & Big-O Notation
+*Topics*: What is Runtime Analysis?, Understanding Big-O Notation ,Time Complexity Analysis ,Space Complexity Analysis , Best- Worst and Average Case Complexities, Practical Guidelines for Optimizing Java Code
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysis_Big_O_Notation)
+---
