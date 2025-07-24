@@ -131,5 +131,5 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 ### 📅 21/07/25 (Monday) – Day 1 – JavaGenerics
 *Topics*: Introduction to Generics,TypeParameters,GenericClasses,GenericMethods,BoundedTypeParameters,Wildcards.
-🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/JavaGenerics/JavaGenerics)
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/JavaGenerics)
 ---
