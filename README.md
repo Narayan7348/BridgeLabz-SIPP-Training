@@ -127,7 +127,7 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysis_Big_O_Notation)
 ---
 
-## JavaGenerics Branch 🧱
+## GenericsAndCollections Branch 🧱
 
 ### 📅 21/07/25 (Monday) – Day 1 – JavaGenerics
 *Topics*: Introduction to Generics,TypeParameters,GenericClasses,GenericMethods,BoundedTypeParameters,Wildcards.
