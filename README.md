@@ -129,7 +129,19 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 ## GenericsAndCollections Branch 🧱
 
-### 📅 21/07/25 (Monday) – Day 1 – JavaGenerics
+### 📅 21/07/25 to 22/07/25 (Monday to Tuesday) – Day 1 – JavaGenerics
 *Topics*: Introduction to Generics,TypeParameters,GenericClasses,GenericMethods,BoundedTypeParameters,Wildcards.
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/JavaGenerics)
+---
+
+### 📅 23/07/25 to 25/07/25  (Wednesday to friday) – Day 2 – JavaCollections
+*Topics*: Overview of Collection Framework,What is the collection framework,Hierarchy of collection framework, List Interface and Implementing classes,Set interface and implementing classes,Queue and Dequeue Interfaces,Map Interfaces and its Implementations,Comparison of Diffrent Implementation,Real world use cases and best practise.
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/JavaCollections)
+---
+
+### 📅 28/07/25 (Monday) – Day 3 – Workshop  
+*Topics*: Question Related to DSA , Generics And Collections
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/blob/Workshop/Workshop/AddressBook.java)
+[Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/blob/Workshop/Workshop/StudentManagementSystem.java)
+[Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/blob/Workshop/Workshop/StudentMarksReport.java)
 ---
