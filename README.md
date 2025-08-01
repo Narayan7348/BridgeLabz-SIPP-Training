@@ -145,3 +145,16 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/blob/Workshop/Workshop/StudentManagementSystem.java)
 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/blob/Workshop/Workshop/StudentMarksReport.java)
 ---
+
+### 📅 29/07/25 to 31/07/25 (Tuesday to Thursday) – Day 4 – JavaSteam
+*Topics*: ---Java I/O Streams
+             Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+             Key Considerations
+             Best Practices
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/JavaStreams)
+---
