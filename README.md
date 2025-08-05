@@ -158,3 +158,23 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
              Best Practices
 🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/JavaStreams)
 ---
+
+## Exceptional Handling Branch 🧱
+
+### 📅 01/08/25 to 05/08/2025 (Friday to Tuesday) – Day 1 – Exceptinal Handling  
+Topics: 1.Exceptions 
+(i)Types of Exceptions
+1.Checked Exceptions,
+2.Unchecked Exceptions
+3.Custom Exceptions
+4.Handling Exceptions 
+5.try-catch blocks
+6.try-catch-finally blocks
+7.try-with-resources statement
+8.throws clause
+9.throw statement
+(ii)Creating Custom Exceptions
+(iii)Extending Exception Class
+(iv)Defining Constructors
+🔗 [Code](https://github.com/Narayan7348/BridgeLabz-SIPP-Training/tree/ExceptionalHandling/ExceptinalHandling)
+---
